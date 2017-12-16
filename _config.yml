@@ -5,8 +5,8 @@ paginate: 6 #articles per page
 paginate_path: /blog/page:num #makes pagination working
 
 # header text
-title:  나만의 포트폴리오!
-header: 최준두 포트폴리오 블로그
+title:  최준두의 포트폴리오!
+header: https://www.youtube.com/channel/UCee3rcXryq-U5HUwyK7yxWQ << 영상은 이곳에서
 
 # for welcome page
 # to replace image go to index.html
